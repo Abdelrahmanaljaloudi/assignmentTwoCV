@@ -1,0 +1,73 @@
+body{
+    background-color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+    font-family:'Times New Roman', Times, serif
+}
+.head_body{
+display: grid;
+background-color: rgb(22, 22, 22);
+
+
+}
+h1{
+font-size: 60px;
+}
+
+.head_sup{
+  
+    display:flex;
+    color: aliceblue;
+  margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    box-shadow: 1px 1px 10px 1px aliceblue;
+}
+.name{
+margin-left: 100px;
+margin-top: 20px;
+text-align: center;
+
+}
+
+li{
+ list-style-type: none;
+
+}
+
+section{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+   text-indent: 20px;
+   line-height: 25px;
+}
+h3{
+    background-color:rgb(22, 22, 22) ;
+    color: aliceblue;
+    text-align: center;
+   
+}
+.skills{
+
+    display: inline-flex;
+   padding-left: 50px;
+}
+.skills2{
+    margin-left: 200px;
+  
+}
+.skills3{
+    margin-left: 200px;
+}
+a:link{
+
+    color: #ffffff;
+}
